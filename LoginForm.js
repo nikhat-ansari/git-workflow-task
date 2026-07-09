@@ -1,7 +1,7 @@
 function LoginForm() {
   return (
     <div>
-      <h2>Login Page</h2>
+      <h2>Welcome Back</h2>
 
       <form>
         <div>
@@ -15,6 +15,17 @@ function LoginForm() {
           <label>Email:</label>
           <br />
           <input type="email" placeholder="Enter your email" name="email" />
+        </div>
+
+        <br />
+        <div>
+          <label>Password:</label>
+          <br />
+          <input
+            type="password"
+            placeholder="Enter your password"
+            name="password"
+          />
         </div>
 
         <br />
