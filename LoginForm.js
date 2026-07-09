@@ -1,7 +1,7 @@
 function LoginForm() {
   return (
     <div>
-      <h2>User Login</h2>
+      <h2>Welcome Back</h2>
 
       <form>
         <div>
